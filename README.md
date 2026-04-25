@@ -146,3 +146,8 @@ Designed for learning:
 * Larger memory model
 * Label-based assembly support
 * Simple assembler for human-readable code
+
+> [!NOTE]
+> This project is an implementation of the **Simpletron** virtual machine simulator originally introduced by **Deitel & Deitel** in *C++ How to Program*.
+>
+> The Simpletron architecture and instruction set are **not my original idea**. This repository contains my own code and any extensions built for learning purposes. All credit for the original concept belongs to the respective authors and publishers.
